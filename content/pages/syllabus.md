@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a course overview and information on meeting times,
+  prerequisites, grading, and the schedule of lecture topics and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
